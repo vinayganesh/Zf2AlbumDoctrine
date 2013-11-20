@@ -19,7 +19,7 @@ Steps to work with this application
 
 7. Change the values to your database credentials in the global/local.php
 
-8. . Get into the public directory ```cd public```
+8. Get into the public directory ```cd public```
 
 9. Run the application the in built web browser```php -S localhost:8080```
 
