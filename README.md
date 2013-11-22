@@ -28,3 +28,8 @@ Steps to work with this application
 11. And you are good to go. 
 
 
+TO DO
+============
+
+Search for a specific artist
+
