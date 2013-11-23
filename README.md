@@ -21,7 +21,7 @@ Steps to work with this application
 
 8. Get into the public directory ```cd public```
 
-9. Run the application the in built web browser```php -S localhost:8080```
+9. Run the application using the in built web browser```php -S localhost:8080```
 
 10. Goto your favorite browser and type http://localhost:8080
 
